@@ -3,3 +3,5 @@
 VGM player for ESP32 based on https://github.com/h1romas4/arduino-vgmplayer
 
 ![picture](assets/breadboard.jpg)
+
+The schematic is [here](assets/schematic.png).
